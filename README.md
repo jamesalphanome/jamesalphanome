@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesalphanome
-- 🌱 I’m interested in code 
-- 👀 Don't disturb me unless it's code and not stupid
+- while not code and stupid:
+  - 👀 Do not disturb me
 
 <!---
 jamesalphanome/jamesalphanome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

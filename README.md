@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Titus
-- while not code and stupid:
+- while not code or stupid:
   - 👀 Do not disturb me
 
 <!---

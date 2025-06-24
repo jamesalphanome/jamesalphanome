@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamesalphanome
+- 👋 Hi, I’m James Titus
 - while not code and stupid:
   - 👀 Do not disturb me
 
